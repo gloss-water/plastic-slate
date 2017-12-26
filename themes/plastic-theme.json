@@ -3,10 +3,10 @@
   "colors": {
     "activityBar.background": "#21252b",
     "activityBar.dropBackground": "#21252b",
-    "activityBar.foreground": "#ffffff",
-    "activityBarBadge.foreground": "#ffffff",
-    "activityBarBadge.background": "#e06c75",
-    "button.background": "#e06c75",
+    "activityBar.foreground": "#efefef",
+    "activityBarBadge.foreground": "#264b49",
+    "activityBarBadge.background": "#e2a8bf",
+    "button.background": "#e2a8bf",
     "contrastBorder": "#080A0F",
     "dropdown.background": "#181A1F",
     "dropdown.border": "#080A0F",
@@ -16,7 +16,7 @@
     "editor.selectionBackground": "#3E4451",
     "editor.findMatchBackground": "#42557B",
     "editor.findMatchHighlightBackground": "#314365",
-    "editorBracketMatch.border": "#61afef",
+    "editorBracketMatch.border": "#c5a7d9",
     "editorCursor.foreground": "#abb2bf",
     "editorError.foreground": "#C62D42",
     "editorInfo.foreground": "#1B659D",
@@ -25,7 +25,7 @@
     "editorGroup.border": "#080A0F",
     "editorGroupHeader.tabsBackground": "#181A1F",
     "editorHoverWidget.background": "#181A1F",
-    "editorHoverWidget.border": "#61afef",
+    "editorHoverWidget.border": "#c5a7d9",
     "editorIndentGuide.background": "#3E4451",
     "editorLineNumber.foreground": "#3E4451",
     "editorOverviewRuler.border": "#080A0F",
@@ -34,13 +34,13 @@
     "editorOverviewRuler.warningForeground": "#d4ac0d",
     "editorRuler.foreground": "#3E4451",
     "editorSuggestWidget.background": "#181A1F",
-    "editorSuggestWidget.border": "#61afef",
+    "editorSuggestWidget.border": "#c5a7d9",
     "editorSuggestWidget.selectedBackground": "#2c313a",
     "editorWhitespace.foreground": "#3E4451",
     "editorWidget.background": "#21252B",
-    "focusBorder": "#61afef",
+    "focusBorder": "#c5a7d9",
     "input.background": "#080A0F",
-    "inputOption.activeBorder": "#61afef",
+    "inputOption.activeBorder": "#c5a7d9",
     "inputValidation.errorBackground": "#C62D42",
     "inputValidation.errorBorder": "#C62D42",
     "inputValidation.infoBackground": "#1B659D",
@@ -58,7 +58,7 @@
     "notification.errorBackground": "#C62D42",
     "panel.background": "#181A1F",
     "panel.border": "#080A0F",
-    "scrollbarSlider.activeBackground": "#D2D6db77",
+    "scrollbarSlider.activeBackground": "#c4c9c077",
     "scrollbarSlider.hoverBackground": "#3E4451aa",
     "scrollbarSlider.background": "#3E445177",
     "sideBar.background": "#181A1F",
@@ -96,18 +96,18 @@
         "punctuation.terminator"
       ],
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#7ab0d2"
       }
     },
     {
-      "name": "Iron",
+      "name": "Kangaroo",
       "scope": ["support.type.property-name", "support.variable", "variable"],
       "settings": {
-        "foreground": "#D2D6db"
+        "foreground": "#c4c9c0"
       }
     },
     {
-      "name": "Cornflower Blue",
+      "name": "Light Wisteria",
       "scope": [
         "markup.inline.raw",
         "storage.type",
@@ -116,14 +116,14 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#c5a7d9"
       }
     },
     {
-      "name": "Fountain Blue",
+      "name": "Mountain Meadow",
       "scope": ["constant", "keyword.other.unit"],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#15ab9c"
       }
     },
     {
@@ -134,14 +134,14 @@
       }
     },
     {
-      "name": "Olivine",
+      "name": "Pastel Green",
       "scope": ["string", "markup.quote", "markup.bold", "markup.italic"],
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#81d778"
       }
     },
     {
-      "name": "Whiskey",
+      "name": "Half Baked",
       "scope": [
         "entity.name.class",
         "entity.name.function",
@@ -152,18 +152,18 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#d19a66"
+        "foreground": "#7ab0d2"
       }
     },
     {
-      "name": "Harvest Gold",
+      "name": "Lilac Blush",
       "scope": ["entity.name.tag", "storage", "variable.language"],
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#a481d3"
       }
     },
     {
-      "name": "Sunglo",
+      "name": "Light Orchid",
       "scope": [
         "entity.name.section",
         "keyword",
@@ -171,7 +171,7 @@
         "punctuation.definition.keyword"
       ],
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#e2a8bf"
       }
     },
     {

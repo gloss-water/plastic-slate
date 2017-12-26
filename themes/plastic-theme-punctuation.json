@@ -3,7 +3,7 @@
   "include": "./plastic-theme.json",
   "tokenColors": [
     {
-      "name": "Raven",
+      "name": "Juniper",
       "scope": [
         "meta.brace",
         "punctuation.definition.array",
@@ -18,7 +18,7 @@
         "punctuation.terminator"
       ],
       "settings": {
-        "foreground": "#737c8c"
+        "foreground": "#648890"
       }
     }
   ]

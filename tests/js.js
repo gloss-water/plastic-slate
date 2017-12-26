@@ -12,6 +12,8 @@ var variable2 = variable
 let localVar = 'string'
 
 const constant = 'CONSTANT'
+const BIG_NAME = false
+const big = BIG_NAME
 
 let numOperator = 3 + 4
 
