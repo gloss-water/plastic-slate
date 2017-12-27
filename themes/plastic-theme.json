@@ -81,7 +81,7 @@
   },
   "tokenColors": [
     {
-      "name": "Cadet Blue",
+      "name": "Cloud",
       "scope": [
         "meta.brace",
         "punctuation.definition.array",
@@ -96,7 +96,7 @@
         "punctuation.terminator"
       ],
       "settings": {
-        "foreground": "#7ab0d2"
+        "foreground": "#d0ccca"
       }
     },
     {
