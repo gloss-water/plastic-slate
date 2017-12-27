@@ -13,7 +13,6 @@ let localVar = 'string'
 
 const constant = 'CONSTANT'
 const BIG_NAME = false
-const big = BIG_NAME
 
 let numOperator = 3 + 4
 
@@ -42,17 +41,26 @@ const funcName = param => {
 }
 
 import React, { Component } from 'react'
+import { Map, Set } from 'immutable'
 
 class ComponentName extends Component {
   constructor() {
     super()
     this.state = {
-      one: two
+      one: two,
+      arr: Set()
     }
   }
   render() {
     return (
       <div>
+        {this.state.arr.map(vv =>
+          vv
+          .get('key')
+          .filter(v => v !== true)
+          .reduce((acc, v) => acc.add(v), Map())
+          .map(v => <div>{v}</div>)
+        )}
         {this.props.children}
       </div>
     )

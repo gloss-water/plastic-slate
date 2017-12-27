@@ -2,7 +2,7 @@
   "name": "plastic-slate",
   "displayName": "Plastic Slate",
   "description": "A simple theme with cute colors.",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "publisher": "kayteh",
   "engines": {
     "vscode": "^1.12.0"
@@ -37,6 +37,6 @@
   "scripts": {
     "docs": "lite-server",
     "vspublish": "vsce publish",
-    "copy": "cp -r ./* ~/.vscode/extensions/kayteh.plastic-slate-1.3.0"
+    "copy": "cp -R ./* ~/.vscode/extensions/kayteh.plastic-slate-1.3.2"
   }
 }
