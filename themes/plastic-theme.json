@@ -58,7 +58,15 @@
     "notification.errorBackground": "#C62D42",
     "panel.background": "#181A1F",
     "panel.border": "#080A0F",
-    "scrollbarSlider.activeBackground": "#c4c9c077",
+		"peekView.border": "#61afef",
+		"peekViewEditor.background": "#181a1f",
+		"peekViewEditor.matchHighlightBackground": "#314365",
+		"peekViewResult.background": "#21252b",
+		"peekViewResult.matchHighlightBackground": "#314365",
+		"peekViewResult.selectionBackground": "#2c313a",
+		"peekViewResult.selectionForeground": "#abb2bf",
+		"peekViewTitle.background": "#21252b",
+    "scrollbarSlider.activeBackground": "#D2D6db77",
     "scrollbarSlider.hoverBackground": "#3E4451aa",
     "scrollbarSlider.background": "#3E445177",
     "sideBar.background": "#181A1F",
@@ -109,6 +117,12 @@
     {
       "name": "Light Wisteria",
       "scope": [
+        "keyword.var",
+        "keyword.const",
+        "keyword.type",
+        "keyword.struct",
+        "keyword.interface",
+        "keyword.function",
         "markup.inline.raw",
         "storage.type",
         "support.constant",
@@ -149,6 +163,7 @@
         "entity.other.attribute-name",
         "entity.other.inherited-class",
         "markup.heading.setext",
+        "meta.function-call.generic",
         "support.function"
       ],
       "settings": {
@@ -157,7 +172,12 @@
     },
     {
       "name": "Lilac Blush",
-      "scope": ["entity.name.tag", "storage", "variable.language"],
+      "scope": [
+        "entity.name.tag",
+        "storage",
+        "support.function.builtin",
+        "variable.language"
+      ],
       "settings": {
         "foreground": "#a481d3"
       }
