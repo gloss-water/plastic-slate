@@ -1,5 +1,6 @@
 {
   "name": "Plastic",
+  "include": "./terminal.json",
   "colors": {
     "activityBar.background": "#21252b",
     "activityBar.dropBackground": "#21252b",

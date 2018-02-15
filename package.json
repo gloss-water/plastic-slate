@@ -2,7 +2,7 @@
   "name": "plastic-slate",
   "displayName": "Plastic Slate",
   "description": "A simple theme with cute colors.",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "publisher": "kayteh",
   "engines": {
     "vscode": "^1.12.0"

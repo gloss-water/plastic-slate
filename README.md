@@ -20,6 +20,8 @@ Colours are taken from the [iTerm2 Slate](https://github.com/mbadolato/iTerm2-Co
 
 Most are left alone from the original Plastic scheme, but may get adjusted in the future.
 
+This theme also includes colour changes to the Integrated Terminal to keep it in line with the colour source.
+
 Colour names provided by [Chirag Mehta's](http://chir.ag/about) fantastic [Name That Colour](http://chir.ag/projects/name-that-color/) website.
 
 
