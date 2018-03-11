@@ -32,8 +32,8 @@
   },
   "devDependencies": {
     "lite-server": "^2.3.0",
-    "prettier": "^1.5.3",
-    "vsce": "^1.36.1"
+    "prettier": "^1.11.1",
+    "vsce": "^1.37.5"
   },
   "scripts": {
     "docs": "lite-server",
